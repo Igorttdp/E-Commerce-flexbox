@@ -110,3 +110,90 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+
+footer {
+    color: white;
+    text-align: center;
+    background-color: #161B22;
+    padding: 5% 10% 2%;
+}
+
+footer h2 {
+    text-transform: uppercase;
+    margin-bottom: 60px;
+}
+
+#social-media {
+    color: #ffae00;
+    text-shadow: 0px 0px 20px #cc9f52;
+}
+
+footer img {
+    width: 200px;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 5em;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-item {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    margin-top: 1em;
+}
+
+.list-icon a {
+    text-decoration: none;
+}
+
+.list-img {
+    width: 56px;
+}
+
+.list-img:not(:hover) {
+    transition: all .3s
+}
+
+.list-img:hover {
+    transform: scale(1.1);
+    transition: all .3s;
+}
+
+#LinkLi:not(:hover) {
+    color: white;
+    transition: all .3s;
+}
+
+#LinkLi:hover {
+    color: #0077B7;
+    text-shadow: 0px 0px 20px #2a76e9;
+    transition: all .3s;
+}
+
+#InstaLi:not(:hover) {
+    color: white;
+    transition: all .3s;
+}
+
+#InstaLi:hover {
+    color: #8139B3;
+    text-shadow: 0px 0px 20px #9500ff;
+    transition: all .3s;
+}
+
+.list-flex {
+    display: flex;
+    gap: 2em;
+    text-align: center;
+}
+
+#p-final {
+    margin-top: 60px;
+    color: #949494;
+}

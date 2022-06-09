@@ -1,7 +1,8 @@
-# Entrega - CSS: Desenvolvendo E-commerce com Flexbox
+# CSS: Desenvolvendo E-commerce com Flexbox
 
-**Importante!**
+<h2>Preview</h2>
 
-Lembre-se de que essa entrega é individual e qualquer suspeita de plágio ou interferência na entrega de outro aluno pode ser questionada pela equipe de ensino.
+<div><img src="assets/img/preview.png"/></div>
 
-Nessa entrega vamos aplicar os conceitos visto sobre flexbox.
+<h3>Sobre</h3>
+<p>Projeto proposto pela Kenzie Academy Brasil para ajustar layout utilizando Flexbox!!!</p>
